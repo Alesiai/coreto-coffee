@@ -293,13 +293,6 @@ body{
         margin: auto;
         margin-top: 20vh;
         color: #FFFFFF;
-
-
-
-
-
-
-
     }
     .assortment-in-cafe {
         padding-top: 20px;
@@ -343,6 +336,9 @@ body{
     }
 }
 @media (max-width: 620px){
+    .autor{
+        display: none;
+    }
     .button-text{
         display: none;
     }
